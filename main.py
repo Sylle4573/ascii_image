@@ -45,6 +45,6 @@ def main():
             image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
         display_image(image)
 
-
+main()
 # If any of it needs better explanation, just message me.
 # I've got nothing better to do.
